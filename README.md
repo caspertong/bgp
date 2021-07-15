@@ -1,9 +1,9 @@
 # BGP Selenium UI Testing
 
-1. Download and install python
+1. Download and install python (If your laptop does not have python)
 https://www.python.org/downloads/
-2. Download and install pip
-3. Download and install pytest using pip
+2. Download and install pip (If your laptop does not have python pip)
+3. Download and install pytest using pip (If your laptop does not have pytest)
 4. Download chrome driver file corresponding to your laptop chrome version
 https://chromedriver.chromium.org/downloads
 5. Open the "Repo" folder from any IDE
